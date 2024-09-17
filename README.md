@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=shuguroff&theme=transparent&locale=ru&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 <!--
 **shuguroff/shuguroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
