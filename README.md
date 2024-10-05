@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=css,js,html,php,linum,angular,laravel,npm,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,js,html,php,linux,angular,laravel,npm,postman&theme=dark)](https://skillicons.dev)
 
 
 <picture>
