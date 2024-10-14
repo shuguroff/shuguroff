@@ -4,7 +4,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=css,js,html,php,mysql,laravel,phpstorm&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,angular,npm,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,angular,npm,postman,vite,gulp,vscode&theme=dark)](https://skillicons.dev)
 
 
 
